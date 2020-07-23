@@ -1,0 +1,11 @@
+.img{
+    display: inline;
+    cursor: pointer;
+    height: 300px;
+    width: 380px;
+}
+#modalImg{
+    width: 465px;
+    height: 300px;
+}
+

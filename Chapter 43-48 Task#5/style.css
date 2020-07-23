@@ -1,0 +1,28 @@
+button{
+    width: 100px;
+    margin: 10px;
+  }
+  
+    h1{
+        display: inline-block;
+        width: 110px;
+        color: azure;
+        padding-top: 100px;
+    }
+  h2{
+    color: azure;
+    display: inline-block;
+    padding-top: 100px;
+  }
+    body{
+        text-align: center;
+      }
+  .imgdiv{
+    background-color: darkgreen;
+    height: 722px;
+  }
+  
+  p{
+    color: azure;
+    padding-top: 40px;
+  }
